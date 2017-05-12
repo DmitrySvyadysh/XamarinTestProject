@@ -1,0 +1,17 @@
+packages/*
+*.dll
+*.pdb
+*.cache
+*/obj/*
+*/bin/*
+bin/
+obj/
+*.user
+*.suo
+*.orig
+*.db
+
+*/Logs/*
+_ReSharper.Caches
+published_service/
+*.mdb
