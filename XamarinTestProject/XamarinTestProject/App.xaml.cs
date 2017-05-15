@@ -12,7 +12,7 @@ namespace XamarinTestProject
         public App()
         {
             InitializeComponent();
-
+            NonexistentMethod();
             MainPage = new XamarinTestProject.MainPage();
         }
 
