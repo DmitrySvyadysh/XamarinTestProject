@@ -11,7 +11,7 @@ namespace XamarinTestProject
     {
         public App()
         {
-            string unusedString = "test";
+            string unusedString = "test2";
             InitializeComponent();
             MainPage = new XamarinTestProject.MainPage();
         }
