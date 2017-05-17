@@ -10,6 +10,8 @@ obj/
 *.suo
 *.orig
 *.db
+.vs
+.vs/*
 
 */Logs/*
 _ReSharper.Caches
